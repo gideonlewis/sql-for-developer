@@ -51,13 +51,14 @@ In this tutorial, we will perform all the basic to advanced SQL statements with 
     * [SET Constraint]()
 
 <br>
+
 ![](images/detail.png)
 
 
 ## Support on RDBMS:
- 1. [MySQL](https://github.com/quaan2hand/sql-for-developer/mysql/README.md)
- 2. [MSSQL](https://github.com/quaan2hand/sql-for-developer/mssql/README.md)
- 3. [PostgreSQL](https://github.com/quaan2hand/sql-for-developer/postgresql/README.md)
+ 1. [MySQL](https://github.com/quaan2hand/sql-for-developer/blob/main/mysql/README.md)
+ 2. [MSSQL (comming soon)](https://github.com/quaan2hand/sql-for-developer/mssql/README.md)
+ 3. [PostgreSQL (comming soon)](https://github.com/quaan2hand/sql-for-developer/postgresql/README.md)
 
 *******
 
