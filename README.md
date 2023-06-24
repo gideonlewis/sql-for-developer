@@ -21,17 +21,14 @@ In this tutorial, we will perform all the basic to advanced SQL statements with 
 - DCL – Data Control Language
 - TCL – Transaction Control Language
 
+<br>
 ![](images/detail.png)
 
 
-Tables of contents  
- 1. [MySQL](https://github.com/quaan2hand/sql-for-developer/mysql)
- 2. [MSSQL](https://github.com/quaan2hand/sql-for-developer/mssql)
- 3. [PostgreSQL](https://github.com/quaan2hand/sql-for-developer/postgresql)
-
-- MySQL data sample [here](https://github.com/quaan2hand/sql-for-developer/mysql/mysqlsampledatabase.sql).
-- MSSQL data sample [here](https://github.com/LewisVo/Markdown-Tutorial/blob/master/README_pt-BR.md).
-- PostgreSQL data sample [here](https://github.com/luongvo209/Markdown-Tutorial/blob/master/README_fr.md).
+## Support on RDBMS:
+ 1. [MySQL](https://github.com/quaan2hand/sql-for-developer/mysql/README.md)
+ 2. [MSSQL](https://github.com/quaan2hand/sql-for-developer/mssql/README.md)
+ 3. [PostgreSQL](https://github.com/quaan2hand/sql-for-developer/postgresql/README.md)
 
 *******
 
