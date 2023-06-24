@@ -17,18 +17,38 @@ In this tutorial, we will perform all the basic to advanced SQL statements with 
 
 - DDL – Data Definition Language: includes SQL commands that can be used to define a database schema, which is a set of SQL commands used to create, modify, and delete database structures but not data. These commands are not normally used by general users who should access the database through an application. List of DDL commands:
 
-    * [One-dimensional Array](http://)
-    <!-- *[CREATE]()
-    *[DROP]()
-    *[ALTER]()
-    *[TRUNCATE]()
-    *[COMMENT]()
-    *[RENAME]() -->
+    * [CREATE]()
+    * [DROP]()
+    * [ALTER]()
+    * [TRUNCATE]()
+    * [COMMENT]()
+    * [RENAME]()
 
-- DQL – Data Query Language
-- DML – Data Manipulation Language
-- DCL – Data Control Language
-- TCL – Transaction Control Language
+- DQL – Data Query Language: used to query and retrieve data from the database. DQL allows you to execute queries to search, filter, and retrieve information from tables and databases.
+
+    * [SELECT]()
+
+- DML – Data Manipulation Language: is a group of statements that allow you to perform direct operations on data, used to change, insert, update, and delete data in a database.
+
+    * [INSERT]()
+    * [UPDATE]()
+    * [DELETE]()
+    * [LOCK]()
+    * [CALL]()
+    * [EXPLAN PLAN]()
+- DCL – Data Control Language: is a group of statements that allow you to manage user access and define permissions and permissions in the database, used to control access and security in the database
+
+    * [GRANT]()
+    * [REVOKE]()
+    * [DENY]()
+
+- TCL – Transaction Control Language: is a group of statements used to control transactions in a database.
+
+    * [COMMIT]()
+    * [SAVEPOINT]()
+    * [ROLLBACK]()
+    * [SET Transaction]()
+    * [SET Constraint]()
 
 <br>
 ![](images/detail.png)
