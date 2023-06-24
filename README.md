@@ -16,13 +16,15 @@ In this tutorial, we will perform all the basic to advanced SQL statements with 
 ### These SQL commands are mainly categorized into five categories: 
 
 - DDL – Data Definition Language: includes SQL commands that can be used to define a database schema, which is a set of SQL commands used to create, modify, and delete database structures but not data. These commands are not normally used by general users who should access the database through an application. List of DDL commands:
-    *[CREATE]()
+
+* [One-dimensional Array](http://)
+    <!-- *[CREATE]()
     *[DROP]()
     *[ALTER]()
     *[TRUNCATE]()
     *[COMMENT]()
-    *[RENAME]()
-    
+    *[RENAME]() -->
+
 - DQL – Data Query Language
 - DML – Data Manipulation Language
 - DCL – Data Control Language
