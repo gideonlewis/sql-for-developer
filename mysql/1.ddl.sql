@@ -1,0 +1,6 @@
+-- 1. CREATE
+-- 2. ALTER 
+-- 3. DROP
+-- 4. RENAME
+-- 5. TRUNCATE
+-- 6. COMMENT
